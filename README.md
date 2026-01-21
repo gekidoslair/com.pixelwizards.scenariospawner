@@ -1,1 +1,1 @@
-# com.pixelwizards.scenariospawner
+# Scenario Spawner

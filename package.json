@@ -1,0 +1,26 @@
+{
+  "name": "com.megacrush.scenariospawner",
+  "displayName": "Scenario Spawner",
+  "version": "1.0.0",
+  "unity": "2022.4",
+  "category": null,
+  "author": {
+    "name": "Megacrush Interactive",
+    "email": "support@megacrush.app",
+    "url": "https://www.megacrush.app"
+  },
+  "documentationUrl": "https://www.megacrush.app/docs/scenario-spawner",
+  "keywords": [
+    "navmesh",
+    "runtime",
+    "ai",
+    "navigation"
+  ],
+  "dependencies": {
+    "com.unity.ai.navigation": "1.1.5",
+    "com.unity.cinemachine": "2.9.7",
+    "com.unity.textmeshpro": "3.0.8",
+    "com.unity.profiling.core": "1.0.2",
+    "com.megacrush.runtimespawner": "1.7.0"
+  }
+}
